@@ -1,0 +1,16 @@
+{
+  "name": "VoiceNotes",
+  "version": "1.0.0",
+  "description": "Text to speech app",
+  "main": "index.js",
+  "author": "kokodev",
+  "license": "MIT",
+  "dependencies": {
+    "@picovoice/pvrecorder-node": "^1.2.2",
+    "commander": "^12.1.0",
+    "express": "^4.19.2",
+    "node-audiorecorder": "^3.0.0",
+    "nodemon": "^3.1.0",
+    "wavefile": "^11.0.0"
+  }
+}
